@@ -84,4 +84,4 @@ def main():
         except Exception as e:
             print(f"Помилка при розрахунку суми: {e}")
 
-main()
+main() 
